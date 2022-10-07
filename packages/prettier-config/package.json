@@ -21,5 +21,8 @@
 	},
 	"type": "module",
 	"main": "prettier-config.json",
-	"sideEffects": false
+	"sideEffects": false,
+	"peerDependencies": {
+		"prettier": "^2.7.1"
+	}
 }
