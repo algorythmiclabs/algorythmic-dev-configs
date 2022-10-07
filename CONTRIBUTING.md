@@ -1,8 +1,10 @@
 # How to contribute
 
-This repository has a CLA-Bot running which will ask contributors to sign a Contributor License Agreement (CLA).
+Contributions are welcome! We're grateful for your consideration 🙏
 
-OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](https://github.com/openendurance/dev-configs-web/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+This repository has a CLA bot running which will ask contributors to sign a Contributor License Agreement (CLA).
+
+OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](./CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 If we are missing anything or can make the process easier in any way, [please let us know](mailto:team@openendurance.org).
 
@@ -40,21 +42,21 @@ The following sections detail what kinds of changes result in each of major, min
 
 ## Branch organization
 
-We do our best to keep `main` releasable at all times, with work for major releases happening in separate branches. [Breaking changes](https://github.com/opendurace/dev-configs-web/blob/main/.github/CONTRIBUTING.md#major) should never be merged directly to `main`. Otherwise, if you send a pull request please do it against the `develop` branch. Continue reading for more about pull requests and breaking changes.
+We do our best to keep `main` releasable at all times, with work for major releases happening in separate branches. [Breaking changes](#major) should never be merged directly to `main`. Otherwise, if you send a pull request please do it against the `develop` branch. Continue reading for more about pull requests and breaking changes.
 
 ## Bugs
 
 ### Where to find known issues
 
-We track all of our issues in GitHub and [bugs](https://github.com/opendurance/dev-configs-web/labels/bug) are labeled accordingly. If you are planning to work on an issue, avoid ones which already have an assignee or where someone has commented within the last two weeks they are working on it. We will do our best to communicate when an issue is being worked on internally.
+We track all of our issues in GitHub and [bugs](./issues?q=is%3Aopen+is%3Aissue+label%3Abug) are labeled accordingly. If you are planning to work on an issue, avoid ones which already have an assignee or where someone has commented within the last two weeks they are working on it. We will do our best to communicate when an issue is being worked on internally.
 
 ### Reporting new issues
 
-To reduce duplicates, look through open issues before filing one. When [opening an issue](https://github.com/opendurance/dev-configs-web/issues/new?template=ISSUE.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
+To reduce duplicates, look through open issues before filing one. When [opening an issue](https://github.com/openendurance/dev-configs-web/issues/new?template=bug_report.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
 
 ## Feature requests
 
-Before requesting a feature, search the [existing feature requests](https://github.com/opendurance/dev-configs-web/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc). You can [👍 upvote](https://help.github.com/articles/about-conversations-on-github/) feature requests to help the OEI team set priorities. If a feature request is closed, you can still upvote! A closed feature request means it’s not something we’re currently working on, but we take all your input into account when planning what to work on next.
+Before requesting a feature, search the [existing feature requests](https://github.com/openendurance/dev-configs-web/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc). You can [👍 upvote](https://help.github.com/articles/about-conversations-on-github/) feature requests to help the OEI team set priorities. If a feature request is closed, you can still upvote! A closed feature request means it’s not something we’re currently working on, but we take all your input into account when planning what to work on next.
 
 Otherwise, [request a feature](https://github.com/openendurance/dev-configs-web/issues/new?template=FEATURE_REQUEST.md).
 
@@ -89,7 +91,7 @@ _Before_ submitting a pull request, please:
 5. Format your code with `yarn format`
 6. Make sure your code lints with `yarn lint`
 7. Run the TypeScript compiler with `yarn type-check`
-8. Create a changeset by running yarn changeset. [More info](https://github.com/opendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md#adding-a-changeset).
+8. Create a changeset by running yarn changeset. [More info](https://github.com/openendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md#adding-a-changeset).
 
 ## Changelog
 
@@ -128,7 +130,7 @@ Generally, changes related to these topics can be omitted:
 
 ## Development workflow
 
-See the [README.md](https://github.com/opendurance/dev-configs-web/blob/main/README.md#commands) file for documentation on the development workflow.
+See the [README.md](https://github.com/openendurance/dev-configs-web/blob/main/README.md#commands) file for documentation on the development workflow.
 
 ### Testing
 
@@ -136,8 +138,6 @@ We recommend running tests as well as trying your build of a package in a real p
 
 -   `yarn test `will run tests for all packages
 -   `yarn turbo run test --filter="[HEAD^1]"` will test any package that has changed in the last commit
-
-Snapshot deployments are not currently set up, but [we have an open ticket for it](https://github.com/openendurance/dev-configs-web/issues/51) 🤞
 
 ## Code style
 

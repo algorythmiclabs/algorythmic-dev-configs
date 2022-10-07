@@ -1,7 +1,7 @@
 rules:
-  master:
-    level: off
-  slave:
-    level: failure
+    master:
+        level: off
+    slave:
+        level: failure
 ignore:
-  - ".github/in-solidarity.yml"
+    - ".github/in-solidarity.yml"
