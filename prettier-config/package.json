@@ -1,16 +1,16 @@
 {
 	"name": "@openendurance/pettier-config",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "OEI Shared Prettier configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
-    "homepage": "https://github.com/openendurance/dev-configs-web/blob/main/prettier-config/README.md",
+	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/prettier-config/README.md",
 	"repository": "https://github.com/openendurance/fkt",
 	"keywords": [
 		"oei",
 		"openenduranceinitiative",
 		"open endurance initiative",
-        "prettier"
+		"prettier"
 	],
 	"bugs": {
 		"url": "https://github.com/openendurance/dev-configs-web/issues"
@@ -20,6 +20,6 @@
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
 	"type": "module",
-    "main": "prettier-config.json",
-    "sideEffects": false
+	"main": "prettier-config.json",
+	"sideEffects": false
 }
