@@ -2,7 +2,7 @@
 
 This repository has a CLA bot running which will ask contributors to sign a Contributor License Agreement (CLA).
 
-OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](https://github.com/openendurance/dev-configs-web/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](./CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 If we are missing anything or can make the process easier in any way, [please let us know](mailto:team@openendurance.org).
 
