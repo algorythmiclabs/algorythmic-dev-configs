@@ -50,11 +50,11 @@ We track all of our issues in GitHub and [bugs](./issues?q=is%3Aopen+is%3Aissue+
 
 ### Reporting new issues
 
-To reduce duplicates, look through open issues before filing one. When [opening an issue](./issues/new?template=bug_report.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
+To reduce duplicates, look through open issues before filing one. When [opening an issue](https://github.com/openendurance/dev-configs-web/issues/new?template=bug_report.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
 
 ## Feature requests
 
-Before requesting a feature, search the [existing feature requests](https://github.com/opendurance/dev-configs-web/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc). You can [👍 upvote](https://help.github.com/articles/about-conversations-on-github/) feature requests to help the OEI team set priorities. If a feature request is closed, you can still upvote! A closed feature request means it’s not something we’re currently working on, but we take all your input into account when planning what to work on next.
+Before requesting a feature, search the [existing feature requests](https://github.com/openendurance/dev-configs-web/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc). You can [👍 upvote](https://help.github.com/articles/about-conversations-on-github/) feature requests to help the OEI team set priorities. If a feature request is closed, you can still upvote! A closed feature request means it’s not something we’re currently working on, but we take all your input into account when planning what to work on next.
 
 Otherwise, [request a feature](https://github.com/openendurance/dev-configs-web/issues/new?template=FEATURE_REQUEST.md).
 
@@ -89,7 +89,7 @@ _Before_ submitting a pull request, please:
 5. Format your code with `yarn format`
 6. Make sure your code lints with `yarn lint`
 7. Run the TypeScript compiler with `yarn type-check`
-8. Create a changeset by running yarn changeset. [More info](https://github.com/opendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md#adding-a-changeset).
+8. Create a changeset by running yarn changeset. [More info](https://github.com/openendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md#adding-a-changeset).
 
 ## Changelog
 
@@ -128,7 +128,7 @@ Generally, changes related to these topics can be omitted:
 
 ## Development workflow
 
-See the [README.md](https://github.com/opendurance/dev-configs-web/blob/main/README.md#commands) file for documentation on the development workflow.
+See the [README.md](https://github.com/openendurance/dev-configs-web/blob/main/README.md#commands) file for documentation on the development workflow.
 
 ### Testing
 
