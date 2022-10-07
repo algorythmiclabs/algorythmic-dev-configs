@@ -137,8 +137,6 @@ We recommend running tests as well as trying your build of a package in a real p
 -   `yarn test `will run tests for all packages
 -   `yarn turbo run test --filter="[HEAD^1]"` will test any package that has changed in the last commit
 
-Snapshot deployments are not currently set up, but [we have an open ticket for it](https://github.com/openendurance/dev-configs-web/issues/51) 🤞
-
 ## Code style
 
 We use an automatic code formatter called [Prettier](https://prettier.io/). Run yarn format after making any changes to the code.
