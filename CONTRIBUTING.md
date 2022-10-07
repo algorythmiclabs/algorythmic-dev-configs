@@ -1,6 +1,6 @@
 # How to contribute
 
-This repository has a CLA-Bot running which will ask contributors to sign a Contributor License Agreement (CLA).
+This repository has a CLA bot running which will ask contributors to sign a Contributor License Agreement (CLA).
 
 OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](https://github.com/openendurance/dev-configs-web/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
@@ -40,17 +40,17 @@ The following sections detail what kinds of changes result in each of major, min
 
 ## Branch organization
 
-We do our best to keep `main` releasable at all times, with work for major releases happening in separate branches. [Breaking changes](https://github.com/opendurace/dev-configs-web/blob/main/.github/CONTRIBUTING.md#major) should never be merged directly to `main`. Otherwise, if you send a pull request please do it against the `develop` branch. Continue reading for more about pull requests and breaking changes.
+We do our best to keep `main` releasable at all times, with work for major releases happening in separate branches. [Breaking changes](#major) should never be merged directly to `main`. Otherwise, if you send a pull request please do it against the `develop` branch. Continue reading for more about pull requests and breaking changes.
 
 ## Bugs
 
 ### Where to find known issues
 
-We track all of our issues in GitHub and [bugs](https://github.com/opendurance/dev-configs-web/labels/bug) are labeled accordingly. If you are planning to work on an issue, avoid ones which already have an assignee or where someone has commented within the last two weeks they are working on it. We will do our best to communicate when an issue is being worked on internally.
+We track all of our issues in GitHub and [bugs](./issues?q=is%3Aopen+is%3Aissue+label%3Abug) are labeled accordingly. If you are planning to work on an issue, avoid ones which already have an assignee or where someone has commented within the last two weeks they are working on it. We will do our best to communicate when an issue is being worked on internally.
 
 ### Reporting new issues
 
-To reduce duplicates, look through open issues before filing one. When [opening an issue](https://github.com/opendurance/dev-configs-web/issues/new?template=ISSUE.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
+To reduce duplicates, look through open issues before filing one. When [opening an issue](./issues/new?template=bug_report.md), complete as much of the template as possible. The best way to get your bug fixed is to provide a reduced test case.
 
 ## Feature requests
 
