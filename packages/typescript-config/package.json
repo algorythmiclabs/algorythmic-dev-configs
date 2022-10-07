@@ -1,6 +1,6 @@
 {
-	"name": "@openendurance/prettier-config",
-	"version": "1.1.0",
+	"name": "@openendurance/typescript-config",
+	"version": "1.0.0",
 	"description": "OEI Shared Prettier configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
@@ -20,9 +20,5 @@
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
 	"type": "module",
-	"main": "prettier-config.json",
-	"sideEffects": false,
-	"peerDependencies": {
-		"prettier": "^2.7.1"
-	}
+	"sideEffects": false
 }
