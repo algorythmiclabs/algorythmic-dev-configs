@@ -1,6 +1,6 @@
 {
 	"name": "@openendurance/prettier-config",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"description": "OEI shared Prettier configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
