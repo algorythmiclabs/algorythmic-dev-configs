@@ -1,0 +1,33 @@
+{
+	"name": "@openendurance/eslint-config",
+	"version": "1.0.0",
+	"description": "OEI Shared eslint configuration.",
+	"license": "MIT",
+	"author": "Open Endurance Initiative <team@openendurance.org>",
+	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/prettier-config/README.md",
+	"repository": "https://github.com/openendurance/dev-configs-web",
+	"keywords": [
+		"oei",
+		"openenduranceinitiative",
+		"open endurance initiative",
+		"eslint"
+	],
+	"bugs": {
+		"url": "https://github.com/openendurance/dev-configs-web/issues"
+	},
+	"publishConfig": {
+		"access": "public",
+		"@openendurance:registry": "https://registry.npmjs.org"
+	},
+	"type": "module",
+	"main": "eslint-config.json",
+	"sideEffects": false,
+	"peerDependencies": {
+		"@types/eslint": "^8.4.6",
+		"@typescript-eslint/eslint-plugin": "^5.37.0",
+		"@typescript-eslint/parser": "^5.37.0",
+		"eslint": "^8.23.1",
+		"eslint-config-prettier": "^8.5.0",
+		"prettier": "^2.7.1"
+	}
+}
