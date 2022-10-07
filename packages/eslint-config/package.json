@@ -1,6 +1,6 @@
 {
 	"name": "@openendurance/eslint-config",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "OEI Shared eslint configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
