@@ -1,5 +1,11 @@
 # @openendurance/typescript-config
 
+## 2.1.0
+
+### Minor Changes
+
+-   8aad6ac: Remove module declarations
+
 ## 2.0.0
 
 ### Major Changes
