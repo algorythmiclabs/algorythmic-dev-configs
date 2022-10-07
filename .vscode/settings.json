@@ -1,4 +1,27 @@
 {
+	"cSpell.ignorePaths": [
+		"package-lock.json",
+		"node_modules",
+		"vscode-extension",
+		".git/objects",
+		".vscode",
+		".vscode-insiders",
+		"**/test/**/*"
+	],
+	"cSpell.words": [
+		"algorythmic",
+		"cargile",
+		"fkt",
+		"geohash",
+		"grf",
+		"grouprunfinder",
+		"IOei",
+		"openendurance",
+		"openenduranceinitiative",
+		"speedwork",
+		"strava",
+		"ultrarunning"
+	],
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": true
 	},
