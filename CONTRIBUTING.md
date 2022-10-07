@@ -1,5 +1,7 @@
 # How to contribute
 
+Contributions are welcome! We're grateful for your consideration 🙏
+
 This repository has a CLA bot running which will ask contributors to sign a Contributor License Agreement (CLA).
 
 OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](./CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
