@@ -20,7 +20,7 @@
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
 	"type": "module",
-	"main": "jest-config.json",
+	"main": "jest-preset.js",
 	"sideEffects": false,
 	"peerDependencies": {
 		"jest": "^29.0.0"
