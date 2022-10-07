@@ -1,20 +1,14 @@
 # How to contribute
 
-Group Run Finder was originally scheduled to launch on March 15th, 2020–two days after virtually every group run on the planet stopped. I dragged my feet on it's continued development, waiting to see how COVID would ultimately play out, then as I dealt with some chaos in my personal left. Fast-forward to today and GRF has been a bit neglected. In late 2022, I made the decision to open-source the product as part of the [Open Endurance Initiative](https://github.com/openendurance), in hopes that it would both better serve the running community as, well, a community-driven project. GRF, while open source, will remain a free and hosted product at [dev-configs-web.com](https://dev-configs-web.com) and through the GRF mobile app. Plans to open-source the GRF dataset via its API are also on the roadmap.
+This repository has a CLA-Bot running which will ask contributors to sign a Contributor License Agreement (CLA).
 
-A few tactical mistakes were made–notably, by me–in the MVP release of the platform, mistakes that are being corrected through a major refactor as the codebase is slowly migrated to this repository. 
-
-To that end, this means that GRF will be under active development for the forseeable future. We can definitely use your help, and if this is an endeavor that resonates, I humbly ask that you chip in. 🤙
+OEI has also adopted a Code of Conduct that we expect contributors to adhere to. Please read the [full text](https://github.com/openendurance/dev-configs-web/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 If we are missing anything or can make the process easier in any way, [please let us know](mailto:team@openendurance.org).
 
-## Code of conduct
-
-We expect all participants to read our [code of conduct](https://github.com/openendurance/dev-configs-web/blob/main/.github/CODE_OF_CONDUCT.md) to understand which actions are and aren’t tolerated.
-
 ## Open development
 
-All work on GRF happens directly on GitHub. Both team members and external contributors send pull requests which go through the same review process.
+All work happens directly on GitHub. Both team members and external contributors send pull requests which go through the same review process.
 
 ## Semantic versioning
 
