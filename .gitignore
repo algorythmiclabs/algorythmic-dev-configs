@@ -1,0 +1,15 @@
+*.log
+*.tsbuildinfo
+*.d.ts
+.DS_Store
+.eslintcache
+.next
+.npmrc
+.turbo
+.wip
+.cdk.staging
+cdk.out
+build
+coverage
+dist
+node_modules
