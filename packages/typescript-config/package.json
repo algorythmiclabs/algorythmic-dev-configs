@@ -1,7 +1,7 @@
 {
 	"name": "@openendurance/typescript-config",
 	"version": "1.0.0",
-	"description": "OEI Shared Typescript configurations.",
+	"description": "OEI shared Typescript configurations.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
 	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/typescript-config/README.md",
@@ -20,5 +20,8 @@
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
 	"type": "module",
-	"sideEffects": false
+	"sideEffects": false,
+	"peerDependencies": {
+		"typescript": "^4.8.0"
+	}
 }
