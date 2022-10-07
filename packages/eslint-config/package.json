@@ -20,7 +20,7 @@
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
 	"type": "module",
-	"main": "eslint-config.json",
+	"main": "eslint-config.js",
 	"sideEffects": false,
 	"peerDependencies": {
 		"eslint": "^8.23.0"
