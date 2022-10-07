@@ -1,0 +1,14 @@
+.editorconfig
+.prettierrc
+jestconfig.json
+tsconfig.json
+tsconfig.eslint.json
+.github
+**/test/**/*
+src
+*.ts
+!*.d.ts
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
