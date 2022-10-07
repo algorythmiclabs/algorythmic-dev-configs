@@ -11,10 +11,10 @@
         "node": "^16.17.0 || ^18.0.0"
     },
     "scripts": {
-        "test": "mkdir -p coverage && turbo run test && yarn test:report",
+        "test": "mkdir -p coverage && jest && yarn test:report",
         "test:report": "yarn nyc report --temp-dir=coverage --report-dir=coverage --reporter=html",
         "test:watch": "jest --watch",
-        "lint": "turbo run lint",
+        "lint": "eslint '**/*.{js,jsx,ts,tsx}'",
         "clean": "turbo run clean && rm -rf .turbo coverage node_modules",
         "format": "prettier . --write",
         "type-check": "tsc --build",
