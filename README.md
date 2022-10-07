@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-	Made with ❤️ in Leadville CO and through contributions from all over the 🌎
+	⛰️⛰️ Made with 💙 in Leadville, CO ⛰️⛰️
 </div>
 <br />
 <div align="center">
