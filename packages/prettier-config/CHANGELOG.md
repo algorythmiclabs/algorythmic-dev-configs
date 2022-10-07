@@ -1,5 +1,11 @@
 # @openendurance/pettier-config
 
+## 1.1.0
+
+### Minor Changes
+
+-   9735e66: Introduce eslint configuration; minor housekeeping and refactoring
+
 ## 1.0.1
 
 ### Patch Changes
