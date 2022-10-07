@@ -1,5 +1,11 @@
 # @openendurance/pettier-config
 
+## 1.1.1
+
+### Patch Changes
+
+-   1a46cae: Add peer dependencies
+
 ## 1.1.0
 
 ### Minor Changes
