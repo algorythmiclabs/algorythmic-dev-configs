@@ -19,7 +19,6 @@
 		"access": "public",
 		"@openendurance:registry": "https://registry.npmjs.org"
 	},
-	"type": "module",
 	"sideEffects": false,
 	"peerDependencies": {
 		"typescript": "^4.8.0"
