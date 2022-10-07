@@ -1,5 +1,11 @@
 # @openendurance/eslint-config
 
+## 1.1.0
+
+### Minor Changes
+
+-   f8426c8: Housekeeping
+
 ## 1.0.0
 
 ### Major Changes
