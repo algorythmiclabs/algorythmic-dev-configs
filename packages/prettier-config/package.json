@@ -4,7 +4,7 @@
 	"description": "OEI Shared Prettier configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
-	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/prettier-config/README.md",
+	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/prettier-config/README.md",
 	"repository": "https://github.com/openendurance/dev-configs-web",
 	"keywords": [
 		"oei",

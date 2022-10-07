@@ -4,7 +4,7 @@
 	"description": "OEI Shared Typescript configurations.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
-	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/typescript-config/README.md",
+	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/typescript-config/README.md",
 	"repository": "https://github.com/openendurance/dev-configs-web",
 	"keywords": [
 		"oei",

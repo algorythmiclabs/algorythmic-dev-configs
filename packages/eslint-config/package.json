@@ -4,7 +4,7 @@
 	"description": "OEI Shared eslint configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
-	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/eslint-config/README.md",
+	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/eslint-config/README.md",
 	"repository": "https://github.com/openendurance/dev-configs-web",
 	"keywords": [
 		"oei",
