@@ -1,5 +1,11 @@
 # @openendurance/eslint-config
 
+## 2.0.1
+
+### Patch Changes
+
+-   92f1117: Fix entrypoint filename mismatch
+
 ## 2.0.0
 
 ### Major Changes
