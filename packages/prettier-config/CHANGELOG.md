@@ -1,5 +1,11 @@
 # @openendurance/pettier-config
 
+## 2.1.3
+
+### Patch Changes
+
+-   9217828: change eslint config to json to avoid cjs issues
+
 ## 2.1.2
 
 ### Patch Changes
