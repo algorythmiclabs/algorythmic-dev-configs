@@ -1,5 +1,11 @@
 # @openendurance/pettier-config
 
+## 2.1.1
+
+### Patch Changes
+
+-   aec9ca9: Comment out todos; readme tweaks
+
 ## 2.1.0
 
 ### Minor Changes
