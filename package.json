@@ -14,7 +14,7 @@
 		"test": "mkdir -p coverage && jest && yarn test:report",
 		"test:report": "yarn nyc report --temp-dir=coverage --report-dir=coverage --reporter=html",
 		"test:watch": "jest --watch",
-		"lint": "eslint '**/*.{js,jsx,ts,tsx}'",
+		"lint": "TIMING=1 eslint '**/*.{js,jsx,ts,tsx}' --cache",
 		"clean": "turbo run clean && rm -rf .turbo coverage node_modules",
 		"format": "prettier . --write",
 		"type-check": "tsc --build",
