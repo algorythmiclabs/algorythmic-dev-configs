@@ -11,12 +11,12 @@
 
 ## Packages
 
-| Name                                   | NPM                                                                                                                                            |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [eslint-config](eslint-config)         | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
-| [jest-config](jest-config)             | [![npm version](https://badge.fury.io/js/@openendurance%2Fjest-config.svg)](https://badge.fury.io/js/@openendurance%2Fjest-config)             |
-| [prettier-config](prettier-config)     | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
-| [typescript-config](typescript-config) | [![npm version](https://badge.fury.io/js/@openendurance%2Ftypescript-config.svg)](https://badge.fury.io/js/@openendurance%2Ftypescript-config) |
+| Name                                            | NPM                                                                                                                                            |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [eslint-config](packages/eslint-config)         | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
+| [jest-config](packages/jest-config)             | [![npm version](https://badge.fury.io/js/@openendurance%2Fjest-config.svg)](https://badge.fury.io/js/@openendurance%2Fjest-config)             |
+| [prettier-config](packages/prettier-config)     | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
+| [typescript-config](packages/typescript-config) | [![npm version](https://badge.fury.io/js/@openendurance%2Ftypescript-config.svg)](https://badge.fury.io/js/@openendurance%2Ftypescript-config) |
 
 ## About this repo
 
