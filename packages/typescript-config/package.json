@@ -1,6 +1,6 @@
 {
 	"name": "@openendurance/typescript-config",
-	"version": "2.1.2",
+	"version": "2.1.3",
 	"description": "OEI shared Typescript configuration.",
 	"license": "MIT",
 	"author": "Open Endurance Initiative <team@openendurance.org>",
