@@ -1,5 +1,11 @@
 # @openendurance/typescript-config
 
+## 2.1.2
+
+### Patch Changes
+
+-   c1260e3: Adust linter caching; fix test exclusion regex
+
 ## 2.1.1
 
 ### Patch Changes
