@@ -1,10 +1,22 @@
-# dev-configs-web
+# Web Development Shared Configs
+
+[![Release](https://github.com/openendurance/fkt/actions/workflows/release.yml/badge.svg)](https://github.com/openendurance/dev-configs-web/actions/workflows/release.yml)
+[![CodeQL](https://github.com/openendurance/dev-configs-web/actions/workflows/codeql.yml/badge.svg)](https://github.com/openendurance/dev-configs-web/actions/workflows/codeql-analysis.yml)
 
 > Common configurations for building OEI web apps.
 
 | Status | Owner                          | Help                                                                     |
 | ------ | ------------------------------ | ------------------------------------------------------------------------ |
 | Active | @openendurance/dev-configs-web | [New issue](https://github.com/openendurance/dev-configs-web/issues/new) |
+
+## Packages
+
+| Name                                   | NPM                                                                                                                                            |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [eslint-config](eslint-config)         | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
+| [jest-config](jest-config)             | [![npm version](https://badge.fury.io/js/@openendurance%2Fjest-config.svg)](https://badge.fury.io/js/@openendurance%2Fjest-config)             |
+| [prettier-config](prettier-config)     | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
+| [typescript-config](typescript-config) | [![npm version](https://badge.fury.io/js/@openendurance%2Ftypescript-config.svg)](https://badge.fury.io/js/@openendurance%2Ftypescript-config) |
 
 ## About this repo
 
