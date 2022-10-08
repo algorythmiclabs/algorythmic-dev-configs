@@ -1,3 +1,3 @@
 # @openendurance/jest-config
 
-To be written...
+<!-- To be written... -->

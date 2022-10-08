@@ -1,3 +1,3 @@
 # @openendurance/prettier-config
 
-To be written...
+<!-- To be written... -->

@@ -1,3 +1,3 @@
 # @openendurance/eslint-config
 
-To be written...
+<!-- To be written... -->
