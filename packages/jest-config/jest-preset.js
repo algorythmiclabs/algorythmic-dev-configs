@@ -14,8 +14,7 @@ module.exports = {
 			statements: 90
 		}
 	},
-	testMatch: ["**/test/**/*.[jt]s?(x)", "**/?(*.)+(spec|test).[jt]s?(x)"],
-	testPathIgnorePatterns: ["<rootDir>/*/.wip", "<rootDir>/*/__fixtures__"],
+	testMatch: ["**/test/**/*.[jt]s?(x)", "**/?(*.)+(spec|test).[jt]s?(x)", "!**/__fixtures__/**/*", "!**/.wip/**/*"],
 	transform: {
 		"^.+\\.(t|j)sx?$": "ts-jest"
 	},
