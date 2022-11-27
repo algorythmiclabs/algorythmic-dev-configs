@@ -17,7 +17,6 @@
 		"lint": "TIMING=1 eslint '**/*.{js,jsx,ts,tsx}' --cache",
 		"clean": "rm -rf coverage node_modules",
 		"format": "prettier . --write",
-		"type-check": "tsc --build",
 		"changeset": "changeset",
 		"release": "changeset publish"
 	},
