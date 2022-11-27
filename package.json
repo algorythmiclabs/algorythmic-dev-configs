@@ -1,5 +1,5 @@
 {
-	"name": "dev-configs-web",
+	"name": "@algorythmic/algorythmic-dev-configs",
 	"version": "0.0.0",
 	"private": true,
 	"workspaces": {
@@ -15,7 +15,7 @@
 		"test:report": "yarn nyc report --temp-dir=coverage --report-dir=coverage --reporter=html",
 		"test:watch": "jest --watch",
 		"lint": "TIMING=1 eslint '**/*.{js,jsx,ts,tsx}' --cache",
-		"clean": "turbo run clean && rm -rf .turbo coverage node_modules",
+		"clean": "rm -rf coverage node_modules",
 		"format": "prettier . --write",
 		"type-check": "tsc --build",
 		"changeset": "changeset",

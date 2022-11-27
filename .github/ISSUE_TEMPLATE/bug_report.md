@@ -1,6 +1,6 @@
 ---
 name: Issue
-about: Ask a question or create a report to help us improve GRF or the documentation
+about: Ask a question or create a report to help us improve code or the documentation
 labels: bug, untriaged
 ---
 

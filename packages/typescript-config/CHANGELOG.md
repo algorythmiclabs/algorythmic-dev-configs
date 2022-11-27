@@ -1,4 +1,4 @@
-# @openendurance/typescript-config
+# @algorythmic/typescript-config
 
 ## 2.1.3
 

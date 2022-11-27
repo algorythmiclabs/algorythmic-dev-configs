@@ -1,23 +1,24 @@
 {
-	"name": "@openendurance/typescript-config",
+	"name": "@algorythmic/typescript-config",
 	"version": "2.1.3",
-	"description": "OEI shared Typescript configuration.",
+	"description": "Algorythmic shared Typescript configuration.",
 	"license": "MIT",
-	"author": "Open Endurance Initiative <team@openendurance.org>",
-	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/typescript-config/README.md",
-	"repository": "https://github.com/openendurance/dev-configs-web",
+	"author": "Algorythmic <team@algorythmic.com>",
+	"homepage": "https://github.com/algorythmic/algorythmic-dev-configs/blob/main/packages/typescript-config/README.md",
+	"repository": "https://github.com/algorythmic/algorythmic-dev-configs",
 	"keywords": [
+		"algorythmic",
 		"oei",
 		"openenduranceinitiative",
 		"open endurance initiative",
 		"prettier"
 	],
 	"bugs": {
-		"url": "https://github.com/openendurance/dev-configs-web/issues"
+		"url": "https://github.com/algorythmic/algorythmic-dev-configs/issues"
 	},
 	"publishConfig": {
 		"access": "public",
-		"@openendurance:registry": "https://registry.npmjs.org"
+		"@algorythmic:registry": "https://registry.npmjs.org"
 	},
 	"sideEffects": false,
 	"peerDependencies": {
