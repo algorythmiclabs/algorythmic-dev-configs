@@ -1,23 +1,24 @@
 {
-	"name": "@openendurance/prettier-config",
+	"name": "@algorythmic/prettier-config",
 	"version": "2.1.3",
-	"description": "OEI shared Prettier configuration.",
+	"description": "Algorythmic shared Prettier configuration.",
 	"license": "MIT",
-	"author": "Open Endurance Initiative <team@openendurance.org>",
-	"homepage": "https://github.com/openendurance/dev-configs-web/blob/main/packages/prettier-config/README.md",
-	"repository": "https://github.com/openendurance/dev-configs-web",
+	"author": "Algorythmic <team@algorythmic.com>",
+	"homepage": "https://github.com/algorythmic/algorythmic-dev-configs/blob/main/packages/prettier-config/README.md",
+	"repository": "https://github.com/algorythmic/algorythmic-dev-configs",
 	"keywords": [
+		"algorythmic",
 		"oei",
 		"openenduranceinitiative",
 		"open endurance initiative",
 		"prettier"
 	],
 	"bugs": {
-		"url": "https://github.com/openendurance/dev-configs-web/issues"
+		"url": "https://github.com/algorythmic/algorythmic-dev-configs/issues"
 	},
 	"publishConfig": {
 		"access": "public",
-		"@openendurance:registry": "https://registry.npmjs.org"
+		"@algorythmic:registry": "https://registry.npmjs.org"
 	},
 	"main": "prettier-config.json",
 	"sideEffects": false,

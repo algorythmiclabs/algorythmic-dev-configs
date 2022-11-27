@@ -1,31 +1,31 @@
 # Web Development Shared Configs
 
-[![Release](https://github.com/openendurance/fkt/actions/workflows/release.yml/badge.svg)](https://github.com/openendurance/dev-configs-web/actions/workflows/release.yml)
-[![CodeQL](https://github.com/openendurance/dev-configs-web/actions/workflows/codeql.yml/badge.svg)](https://github.com/openendurance/dev-configs-web/actions/workflows/codeql-analysis.yml)
+[![Release](https://github.com/algorythmic/fkt/actions/workflows/release.yml/badge.svg)](https://github.com/algorythmic/algorythmic-dev-configs/actions/workflows/release.yml)
+[![CodeQL](https://github.com/algorythmic/algorythmic-dev-configs/actions/workflows/codeql.yml/badge.svg)](https://github.com/algorythmic/algorythmic-dev-configs/actions/workflows/codeql-analysis.yml)
 
-> Common configurations for building OEI web apps.
+> Common configurations for building apps at Algorythmic.
 
 | Status | Owner                          | Help                                                                     |
 | ------ | ------------------------------ | ------------------------------------------------------------------------ |
-| Active | @openendurance/dev-configs-web | [New issue](https://github.com/openendurance/dev-configs-web/issues/new) |
+| Active | @algorythmic/algorythmic-dev-configs | [New issue](https://github.com/algorythmic/algorythmic-dev-configs/issues/new) |
 
 ## Packages
 
 | Name                                            | NPM                                                                                                                                            |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [eslint-config](packages/eslint-config)         | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
-| [jest-config](packages/jest-config)             | [![npm version](https://badge.fury.io/js/@openendurance%2Fjest-config.svg)](https://badge.fury.io/js/@openendurance%2Fjest-config)             |
-| [prettier-config](packages/prettier-config)     | [![npm version](https://badge.fury.io/js/@openendurance%2Fprettier-config.svg)](https://badge.fury.io/js/@openendurance%2Fprettier-config)     |
-| [typescript-config](packages/typescript-config) | [![npm version](https://badge.fury.io/js/@openendurance%2Ftypescript-config.svg)](https://badge.fury.io/js/@openendurance%2Ftypescript-config) |
+| [eslint-config](packages/eslint-config)         | [![npm version](https://badge.fury.io/js/@algorythmic%2Fprettier-config.svg)](https://badge.fury.io/js/@algorythmic%2Fprettier-config)     |
+| [jest-config](packages/jest-config)             | [![npm version](https://badge.fury.io/js/@algorythmic%2Fjest-config.svg)](https://badge.fury.io/js/@algorythmic%2Fjest-config)             |
+| [prettier-config](packages/prettier-config)     | [![npm version](https://badge.fury.io/js/@algorythmic%2Fprettier-config.svg)](https://badge.fury.io/js/@algorythmic%2Fprettier-config)     |
+| [typescript-config](packages/typescript-config) | [![npm version](https://badge.fury.io/js/@algorythmic%2Ftypescript-config.svg)](https://badge.fury.io/js/@algorythmic%2Ftypescript-config) |
 
 ## About this repo
 
-The @openendurance/dev-configs-web repository is a monorepo made up of npm packages, configuration files, and documentation.
+The @algorythmic/algorythmic-dev-configs repository is a monorepo made up of npm packages, configuration files, and documentation.
 
 The project is structured like so:
 
 ```sh
-dev-configs-web
+algorythmic-dev-configs
 ├── documentation           # Documentation for working in the monorepo
 └── packages
     ├── eslint-config		# Shared ESLint configuration
@@ -58,7 +58,7 @@ Run commands across all workspaces. This uses [`turbo run <command>`](https://tu
 
 | Command           | Runs                                                                                                                              |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| `yarn changeset`  | Adds a new [changelog entry](https://github.com/opendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md#adding-a-changeset) |
+| `yarn changeset`  | Adds a new [changelog entry](https://github.com/algorythmic/algorythmic-dev-configs/blob/main/.github/CONTRIBUTING.md#adding-a-changeset) |
 | `yarn lint`       | Lints all workspaces                                                                                                              |
 | `yarn test`       | Tests all workspaces                                                                                                              |
 | `yarn type-check` | Build types and check for type errors                                                                                             |
@@ -67,15 +67,15 @@ Run commands across all workspaces. This uses [`turbo run <command>`](https://tu
 
 ## Contribute to this project
 
-We need your help! [Suggest a new feature](https://github.com/openendurance/dev-configs-web/issues/new) and pull requests are always welcome. See the [contribution guidelines](https://github.com/openendurance/dev-configs-web/blob/main/.github/CONTRIBUTING.md) for more information.
+We need your help! [Suggest a new feature](https://github.com/algorythmic/algorythmic-dev-configs/issues/new) and pull requests are always welcome. See the [contribution guidelines](https://github.com/algorythmic/algorythmic-dev-configs/blob/main/.github/CONTRIBUTING.md) for more information.
 
 ## License
 
-Source code in this repository and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are released under the [MIT license](https://github.com/openendurance/dev-configs-web/blob/main/LICENSE.md).
+Source code in this repository and related [NPM packages](https://www.npmjs.com/settings/algorythmic/packages) are released under the [MIT license](https://github.com/algorythmic/algorythmic-dev-configs/blob/main/LICENSE.md).
 
 Photos used in the docs are property of their respective owners (probably [@kcargile](https://github.com/kcargile)) and are subject to copyright unless otherwise specified.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B33512%2Fgithub.com%2Fopenendurance%2Fdev-configs-web.svg?type=small)](https://app.fossa.com/projects/custom%2B33512%2Fgithub.com%2Fopenendurance%2Fdev-configs-web?ref=badge_small)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B33512%2Fgithub.com%2Falgorythmic%2Falgorythmic-dev-configs.svg?type=small)](https://app.fossa.com/projects/custom%2B33512%2Fgithub.com%2Falgorythmic%2Falgorythmic-dev-configs?ref=badge_small)
 
 ---
 

@@ -1,4 +1,4 @@
-# @openendurance/pettier-config
+# @algorythmic/pettier-config
 
 ## 2.1.3
 

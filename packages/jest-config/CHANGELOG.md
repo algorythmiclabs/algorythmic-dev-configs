@@ -1,4 +1,4 @@
-# @openendurance/jest-config
+# @algorythmic/jest-config
 
 ## 2.1.3
 

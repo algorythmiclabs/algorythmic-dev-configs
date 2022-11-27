@@ -10,11 +10,11 @@ Thanks for helping us keep open source endurance safe for everyone ✨✨
 
 ## Reporting a Vulnerability
 
-If you believe you have found a security vulnerability in any OEI-owned repository, please report it to us through coordinated disclosure.
+If you believe you have found a security vulnerability in any Algorythmic-owned repository, please report it to us through coordinated disclosure.
 
 Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.
 
-Instead, please send an email to [security@openendurance.org](mailto:security@openendurance.org).
+Instead, please send an email to [security@algorythmic.com](mailto:security@algorythmic.com).
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 

@@ -1,3 +1,3 @@
-# @openendurance/typescript-config
+# @algorythmic/typescript-config
 
 <!-- To be written... -->

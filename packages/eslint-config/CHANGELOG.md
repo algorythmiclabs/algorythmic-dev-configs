@@ -1,4 +1,4 @@
-# @openendurance/eslint-config
+# @algorythmic/eslint-config
 
 ## 2.1.3
 

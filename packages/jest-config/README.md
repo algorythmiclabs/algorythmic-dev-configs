@@ -1,3 +1,3 @@
-# @openendurance/jest-config
+# @algorythmic/jest-config
 
 <!-- To be written... -->
